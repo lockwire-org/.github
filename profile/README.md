@@ -3,10 +3,10 @@
   <img src="https://lockwire.org/brand/wordmark.svg" alt="LockWire" width="320">
 </picture>
 
-Secure-by-default security infrastructure for personal, commercial, cloud,
-industrial, embedded, and IoT systems, written in Rust: cryptography that
-runs in the AWS-LC-FIPS module, TLS with no warnings, PKI, passkeys, signed
-updates, and tamper-evident audit — wired correctly out of the box.
+Secure-by-default security infrastructure for personal, commercial, mobile,
+cloud, industrial, embedded, and IoT systems, written in Rust: cryptography
+that runs in the AWS-LC-FIPS module, TLS with no warnings, PKI, passkeys,
+signed updates, and tamper-evident audit — wired correctly out of the box.
 
 **[lockwire.org](https://lockwire.org)** has the full picture: a five-minute
 getting-started guide, the feature matrix, and the evidence behind every
